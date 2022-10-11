@@ -1,0 +1,436 @@
+﻿State,Abbreviation,District Numbers
+Alabama,AL,01
+Alabama,AL,02
+Alabama,AL,03
+Alabama,AL,04
+Alabama,AL,05
+Alabama,AL,06
+Alabama,AL,07
+Alaska,AK,01
+Arizona,AZ,01
+Arizona,AZ,02
+Arizona,AZ,03
+Arizona,AZ,04
+Arizona,AZ,05
+Arizona,AZ,06
+Arizona,AZ,07
+Arizona,AZ,08
+Arizona,AZ,09
+Arkansas,AR,01
+Arkansas,AR,02
+Arkansas,AR,03
+Arkansas,AR,04
+California,CA,01
+California,CA,02
+California,CA,03
+California,CA,04
+California,CA,05
+California,CA,06
+California,CA,07
+California,CA,08
+California,CA,09
+California,CA,10
+California,CA,11
+California,CA,12
+California,CA,13
+California,CA,14
+California,CA,15
+California,CA,16
+California,CA,17
+California,CA,18
+California,CA,19
+California,CA,20
+California,CA,21
+California,CA,22
+California,CA,23
+California,CA,24
+California,CA,25
+California,CA,26
+California,CA,27
+California,CA,28
+California,CA,29
+California,CA,30
+California,CA,31
+California,CA,32
+California,CA,33
+California,CA,34
+California,CA,35
+California,CA,36
+California,CA,37
+California,CA,38
+California,CA,39
+California,CA,40
+California,CA,41
+California,CA,42
+California,CA,43
+California,CA,44
+California,CA,45
+California,CA,46
+California,CA,47
+California,CA,48
+California,CA,49
+California,CA,50
+California,CA,51
+California,CA,52
+California,CA,53
+Colorado,CO,01
+Colorado,CO,02
+Colorado,CO,03
+Colorado,CO,04
+Colorado,CO,05
+Colorado,CO,06
+Colorado,CO,07
+Connecticut,CT,01
+Connecticut,CT,02
+Connecticut,CT,03
+Connecticut,CT,04
+Connecticut,CT,05
+Delaware,DE,01
+Florida,FL,01
+Florida,FL,02
+Florida,FL,03
+Florida,FL,04
+Florida,FL,05
+Florida,FL,06
+Florida,FL,07
+Florida,FL,08
+Florida,FL,09
+Florida,FL,10
+Florida,FL,11
+Florida,FL,12
+Florida,FL,13
+Florida,FL,14
+Florida,FL,15
+Florida,FL,16
+Florida,FL,17
+Florida,FL,18
+Florida,FL,19
+Florida,FL,20
+Florida,FL,21
+Florida,FL,22
+Florida,FL,23
+Florida,FL,24
+Florida,FL,25
+Florida,FL,26
+Florida,FL,27
+Georgia,GA,01
+Georgia,GA,02
+Georgia,GA,03
+Georgia,GA,04
+Georgia,GA,05
+Georgia,GA,06
+Georgia,GA,07
+Georgia,GA,08
+Georgia,GA,09
+Georgia,GA,10
+Georgia,GA,11
+Georgia,GA,12
+Georgia,GA,13
+Georgia,GA,14
+Hawaii,HI,01
+Hawaii,HI,02
+Idaho,ID,01
+Idaho,ID,02
+Illinois,IL,01
+Illinois,IL,02
+Illinois,IL,03
+Illinois,IL,04
+Illinois,IL,05
+Illinois,IL,06
+Illinois,IL,07
+Illinois,IL,08
+Illinois,IL,09
+Illinois,IL,10
+Illinois,IL,11
+Illinois,IL,12
+Illinois,IL,13
+Illinois,IL,14
+Illinois,IL,15
+Illinois,IL,16
+Illinois,IL,17
+Illinois,IL,18
+Indiana,IN,01
+Indiana,IN,02
+Indiana,IN,03
+Indiana,IN,04
+Indiana,IN,05
+Indiana,IN,06
+Indiana,IN,07
+Indiana,IN,08
+Indiana,IN,09
+Iowa,IA,01
+Iowa,IA,02
+Iowa,IA,03
+Iowa,IA,04
+Kansas,KS,01
+Kansas,KS,02
+Kansas,KS,03
+Kansas,KS,04
+Kentucky,KY,01
+Kentucky,KY,02
+Kentucky,KY,03
+Kentucky,KY,04
+Kentucky,KY,05
+Kentucky,KY,06
+Louisiana,LA,01
+Louisiana,LA,02
+Louisiana,LA,03
+Louisiana,LA,04
+Louisiana,LA,05
+Louisiana,LA,06
+Maine,ME,01
+Maine,ME,02
+Maryland,MD,01
+Maryland,MD,02
+Maryland,MD,03
+Maryland,MD,04
+Maryland,MD,05
+Maryland,MD,06
+Maryland,MD,07
+Maryland,MD,08
+Massachusetts,MA,01
+Massachusetts,MA,02
+Massachusetts,MA,03
+Massachusetts,MA,04
+Massachusetts,MA,05
+Massachusetts,MA,06
+Massachusetts,MA,07
+Massachusetts,MA,08
+Massachusetts,MA,09
+Michigan,MI,01
+Michigan,MI,02
+Michigan,MI,03
+Michigan,MI,04
+Michigan,MI,05
+Michigan,MI,06
+Michigan,MI,07
+Michigan,MI,08
+Michigan,MI,09
+Michigan,MI,10
+Michigan,MI,11
+Michigan,MI,12
+Michigan,MI,13
+Michigan,MI,14
+Minnesota,MN,01
+Minnesota,MN,02
+Minnesota,MN,03
+Minnesota,MN,04
+Minnesota,MN,05
+Minnesota,MN,06
+Minnesota,MN,07
+Minnesota,MN,08
+Mississippi,MS,01
+Mississippi,MS,02
+Mississippi,MS,03
+Mississippi,MS,04
+Missouri,MO,01
+Missouri,MO,02
+Missouri,MO,03
+Missouri,MO,04
+Missouri,MO,05
+Missouri,MO,06
+Missouri,MO,07
+Missouri,MO,08
+Montana,MT,01
+Nebraska,NE,01
+Nebraska,NE,02
+Nebraska,NE,03
+Nevada,NV,01
+Nevada,NV,02
+Nevada,NV,03
+Nevada,NV,04
+New Hampshire,NH,01
+New Hampshire,NH,02
+New Jersey,NJ,01
+New Jersey,NJ,02
+New Jersey,NJ,03
+New Jersey,NJ,04
+New Jersey,NJ,05
+New Jersey,NJ,06
+New Jersey,NJ,07
+New Jersey,NJ,08
+New Jersey,NJ,09
+New Jersey,NJ,10
+New Jersey,NJ,11
+New Jersey,NJ,12
+New Mexico,NM,01
+New Mexico,NM,02
+New Mexico,NM,03
+New York,NY,01
+New York,NY,02
+New York,NY,03
+New York,NY,04
+New York,NY,05
+New York,NY,06
+New York,NY,07
+New York,NY,08
+New York,NY,09
+New York,NY,10
+New York,NY,11
+New York,NY,12
+New York,NY,13
+New York,NY,14
+New York,NY,15
+New York,NY,16
+New York,NY,17
+New York,NY,18
+New York,NY,19
+New York,NY,20
+New York,NY,21
+New York,NY,22
+New York,NY,23
+New York,NY,24
+New York,NY,25
+New York,NY,26
+New York,NY,27
+North Carolina,NC,01
+North Carolina,NC,02
+North Carolina,NC,03
+North Carolina,NC,04
+North Carolina,NC,05
+North Carolina,NC,06
+North Carolina,NC,07
+North Carolina,NC,08
+North Carolina,NC,09
+North Carolina,NC,10
+North Carolina,NC,11
+North Carolina,NC,12
+North Carolina,NC,13
+North Dakota,ND,01
+Ohio,OH,01
+Ohio,OH,02
+Ohio,OH,03
+Ohio,OH,04
+Ohio,OH,05
+Ohio,OH,06
+Ohio,OH,07
+Ohio,OH,08
+Ohio,OH,09
+Ohio,OH,10
+Ohio,OH,11
+Ohio,OH,12
+Ohio,OH,13
+Ohio,OH,14
+Ohio,OH,15
+Ohio,OH,16
+Oklahoma,OK,01
+Oklahoma,OK,02
+Oklahoma,OK,03
+Oklahoma,OK,04
+Oklahoma,OK,05
+Oregon,OR,01
+Oregon,OR,02
+Oregon,OR,03
+Oregon,OR,04
+Oregon,OR,05
+Pennsylvania,PA,01
+Pennsylvania,PA,02
+Pennsylvania,PA,03
+Pennsylvania,PA,04
+Pennsylvania,PA,05
+Pennsylvania,PA,06
+Pennsylvania,PA,07
+Pennsylvania,PA,08
+Pennsylvania,PA,09
+Pennsylvania,PA,10
+Pennsylvania,PA,11
+Pennsylvania,PA,12
+Pennsylvania,PA,13
+Pennsylvania,PA,14
+Pennsylvania,PA,15
+Pennsylvania,PA,16
+Pennsylvania,PA,17
+Pennsylvania,PA,18
+Rhode Island,RI,01
+Rhode Island,RI,02
+South Carolina,SC,01
+South Carolina,SC,02
+South Carolina,SC,03
+South Carolina,SC,04
+South Carolina,SC,05
+South Carolina,SC,06
+South Carolina,SC,07
+South Dakota,SD,01
+Tennessee,TN,01
+Tennessee,TN,02
+Tennessee,TN,03
+Tennessee,TN,04
+Tennessee,TN,05
+Tennessee,TN,06
+Tennessee,TN,07
+Tennessee,TN,08
+Tennessee,TN,09
+Texas,TX,01
+Texas,TX,02
+Texas,TX,03
+Texas,TX,04
+Texas,TX,05
+Texas,TX,06
+Texas,TX,07
+Texas,TX,08
+Texas,TX,09
+Texas,TX,10
+Texas,TX,11
+Texas,TX,12
+Texas,TX,13
+Texas,TX,14
+Texas,TX,15
+Texas,TX,16
+Texas,TX,17
+Texas,TX,18
+Texas,TX,19
+Texas,TX,20
+Texas,TX,21
+Texas,TX,22
+Texas,TX,23
+Texas,TX,24
+Texas,TX,25
+Texas,TX,26
+Texas,TX,27
+Texas,TX,28
+Texas,TX,29
+Texas,TX,30
+Texas,TX,31
+Texas,TX,32
+Texas,TX,33
+Texas,TX,34
+Texas,TX,35
+Texas,TX,36
+Utah,UT,01
+Utah,UT,02
+Utah,UT,03
+Utah,UT,04
+Vermont,VT,01
+Virginia,VA,01
+Virginia,VA,02
+Virginia,VA,03
+Virginia,VA,04
+Virginia,VA,05
+Virginia,VA,06
+Virginia,VA,07
+Virginia,VA,08
+Virginia,VA,09
+Virginia,VA,10
+Virginia,VA,11
+Washington,WA,01
+Washington,WA,02
+Washington,WA,03
+Washington,WA,04
+Washington,WA,05
+Washington,WA,06
+Washington,WA,07
+Washington,WA,08
+Washington,WA,09
+Washington,WA,10
+West Virginia,WV,01
+West Virginia,WV,02
+West Virginia,WV,03
+Wisconsin,WI,01
+Wisconsin,WI,02
+Wisconsin,WI,03
+Wisconsin,WI,04
+Wisconsin,WI,05
+Wisconsin,WI,06
+Wisconsin,WI,07
+Wisconsin,WI,08
+Wyoming,WY,01
